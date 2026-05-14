@@ -1,5 +1,6 @@
 {
   "name": "KVB Fahrplanauskunft Card",
   "render_readme": true,
-  "filename": "kvb-journey-card.js"
+  "filename": "kvb-journey-card.js",
+  "content_in_root": true
 }
